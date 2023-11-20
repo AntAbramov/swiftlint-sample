@@ -48,6 +48,6 @@ else
 fi
 ```
 
-#### Warning: If your Xcode version is greater than 15.0:
+### Warning: If your Xcode version is greater than 15.0:
 
 You need go to Build Settings tab -> find 'User Script Sandboxing' setting and change its property to 'No'
