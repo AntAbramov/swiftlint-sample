@@ -1,5 +1,6 @@
 # Example of configured swiftlint file
 [SwiftLint GitHub repository](https://github.com/realm/SwiftLint)
+[SwiftLint Rules with triggering examples](https://realm.github.io/SwiftLint/rule-directory.html)
 
 This repository provides a generic SwiftLint configuration file that can be used by anyone to write clean and readable code using the Swift programming language, without deep-diving into the configuration itself.
 
