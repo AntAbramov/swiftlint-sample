@@ -36,7 +36,7 @@ opt_in_rules:
   - empty_xctest_method
   - enum_case_associated_values_count
   - explicit_init
-  - explicit_top_level_acl
+  # - explicit_top_level_acl
   - fatal_error_message
   - file_name_no_space
   - file_types_order
@@ -84,7 +84,7 @@ opt_in_rules:
   - redundant_nil_coalescing
   - redundant_self_in_closure
   - redundant_type_annotation
-  - required_deinit
+  # - required_deinit
   - return_value_from_void_function
   - shorthand_optional_binding
   - single_test_class
